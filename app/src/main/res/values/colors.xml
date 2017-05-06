@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#26A69A</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#2F1D1A</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#26A69A</color>
+
+    <!-- Background color for the albums category -->
+    <color name="category_albums">#FD8E09</color>
+
+    <!-- Background color for the lyrics category -->
+    <color name="category_lyrics">#379237</color>
+
+    <!-- Background color for the songs category -->
+    <color name="category_songs">#8800A0</color>
+
+    <!-- Background color for the now playing category -->
+    <color name="category_playing">#16AFCA</color>
+</resources>

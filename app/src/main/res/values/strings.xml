@@ -1,0 +1,29 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">MPlayer</string>
+
+    <!-- Category name for Now Playing [CHAR LIMIT=20] -->
+    <string name="category_playing">Now Playing</string>
+
+    <!-- Category name for Songs [CHAR LIMIT=20] -->
+    <string name="category_songs">Songs</string>
+
+    <!-- Category name for Albums [CHAR LIMIT=20] -->
+    <string name="category_albums">Albums</string>
+
+    <!-- Category name for Lyrics [CHAR LIMIT=20] -->
+    <string name="category_lyrics">Lyrics</string>
+
+    <!-- Description for Lyrics -->
+    <string name="lyrics_description">Using an API to get the lyrics for the song,they would be displayed here.</string>
+
+    <!-- Description for Albums -->
+    <string name="albums_description">The app should display all the stored albums in a ListView.</string>
+
+    <!-- Description for Now playing -->
+    <string name="playing_description">The app should show the album art,the name and duration of the currently playing song.</string>
+
+    <!-- Description for Songs -->
+    <string name="songs_description">The app should display all the stored songs in a ListView.</string>
+
+</resources>
