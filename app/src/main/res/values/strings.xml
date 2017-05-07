@@ -21,7 +21,7 @@
     <string name="albums_description">The app should display all the stored albums in a ListView.</string>
 
     <!-- Description for Now playing -->
-    <string name="playing_description">The app should show the album art,the name and duration of the currently playing song.</string>
+    <string name="playing_description">Using the MediaPlayer class and the SeekBar class the app would display all the info on the current song playing,the pause,stop,play,back,forward buttons and a seek bar.</string>
 
     <!-- Description for Songs -->
     <string name="songs_description">The app should display all the stored songs in a ListView.</string>
